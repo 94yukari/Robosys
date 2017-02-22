@@ -1,6 +1,6 @@
 ﻿catkin_ws/src/mypkg/script/twice.py
 
-：１秒ごとにカウントを行い、10秒経過するとまた0からカウントを行う
+：rate1(000)ごとにカウントを行い、10まで到達するとまた0からカウントを行う
 
 
 AUTHOR：YUKARI SUZUKI,RYUICHI UEDA
