@@ -1,6 +1,6 @@
 ﻿catkin_ws/src/mypkg/script/twice.py
 
-：rate1(000)ごとにカウントを行い、10まで到達するとまた0からカウントを行う
+：rate(1000)ごとにカウントを行い、10まで到達するとまた0からカウントを行う
 
 
 AUTHOR：YUKARI SUZUKI,RYUICHI UEDA
