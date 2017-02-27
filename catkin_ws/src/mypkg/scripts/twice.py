@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #AUTHOR：YUKARI SUZUKI,RYUICHI UEDA
-#DESCRIPTION：10sec count timer
+#DESCRIPTION：rate(1000) count timer
 #LICENSE：GPL
 #VERSION：0.1
 
