@@ -6,7 +6,7 @@
 #include<asm/uaccess.h>
 #include<linux/io.h>
 
-MODULE_AUTHOR("YUKARI SUZUKI");
+MODULE_AUTHOR("YUKARI SUZUKI,RYUICHI UEDA");
 MODULE_DESCRIPTION("driver for 7 LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
